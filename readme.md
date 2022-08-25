@@ -1,4 +1,4 @@
-## Digital Marketing Home Page.
+# Digital Marketing Home Page.
 
 ## Concepts and Skills gained
 
