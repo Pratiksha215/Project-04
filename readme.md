@@ -1,14 +1,9 @@
-Responsive Street Style Landing Page designed using pure Html and Css.
+## Digital Marketing Home Page.
 
-## Concepts and Learnings
+## Concepts and Skills gained
 
-- Positioning in css
-    - Absolute
-    - Relative
-    - Static
-- Pseudo selectors
-- Image size and Positioning
-- Flexbox
+- Learnt to use svg as background image.
+- Selection of any specific element using **:nth-child()**, **:first-child** & **:last-child**
 
 ## Landing Page Snapshot
 ![Snapshot](4.png)
@@ -21,6 +16,10 @@ Please check the Live Demo of the Designed Landing Page using the Below Link:-)
 
 ![lIVE-dEMO](https://img.shields.io/badge/Live_Demo-<COLOR>)
 
-[Live-Demo](https://visual-designer-landing.netlify.app/)
+[Live-Demo](https://digital-marketing-homepg.netlify.app)
+
+## Time taken to finish this project
+
+-   1 hour to complete it.
 
 ## Designed By Patil Pratiksha
